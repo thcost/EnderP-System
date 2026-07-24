@@ -1,5 +1,3 @@
-# EnderP-System
-Projeto de infraestrutura e desenvolvimento de sistemas personalizados para servidor multiplayer.
 
 # 🎮 EnderP System
 
