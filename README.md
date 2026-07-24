@@ -1,47 +1,84 @@
-
 # 🎮 EnderP System
 
-Sistema de gerenciamento e desenvolvimento de servidor multiplayer Minecraft.
+<p align="center">
 
-## Sobre o projeto
+<img src="https://img.shields.io/badge/Minecraft-Server-green?style=for-the-badge&logo=minecraft">
+<img src="https://img.shields.io/badge/PaperMC-1.20+-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-Development-red?style=for-the-badge&logo=openjdk">
+<img src="https://img.shields.io/badge/Bedrock-Compatible-blue?style=for-the-badge">
 
-O EnderP é um projeto pessoal focado em infraestrutura de servidores, criação de sistemas personalizados e integração de tecnologias para oferecer uma experiência multiplayer completa.
+</p>
 
-## Objetivos
+## 📌 Sobre o projeto
 
-- Criar uma plataforma multiplayer estável;
-- Desenvolver sistemas personalizados;
-- Aplicar conceitos de infraestrutura e administração de servidores;
-- Aprimorar conhecimentos em desenvolvimento.
+O **EnderP** é um projeto pessoal de desenvolvimento e gerenciamento de servidor multiplayer Minecraft, focado em criar uma experiência personalizada através de sistemas próprios, infraestrutura organizada e integração entre plataformas.
 
-## Tecnologias utilizadas
+O projeto aplica conceitos de:
 
-- PaperMC
-- Java
-- Skript
-- Geyser/Floodgate
-- Linux
-- Plugins e APIs Minecraft
-
-## Sistemas desenvolvidos
-
-- Sistema de nações;
-- Teleportes personalizados;
-- Economia;
-- Eventos;
-- Drops especiais;
-- Integração Java/Bedrock.
-
-## Aprendizados
-
-Durante o desenvolvimento foram aplicados conceitos de:
-
-- Configuração de servidores;
-- Organização de projetos;
+- Desenvolvimento de sistemas;
+- Administração de servidores;
 - Automação;
-- Gerenciamento de recursos;
-- Solução de problemas técnicos.
+- Organização de infraestrutura;
+- Experiência do usuário.
 
-## Status
+---
 
-🚧 Em desenvolvimento
+# 🚀 Objetivos
+
+- Criar um servidor multiplayer estável e escalável;
+- Desenvolver sistemas personalizados;
+- Aplicar conhecimentos de programação na prática;
+- Explorar conceitos de infraestrutura e cloud;
+- Construir uma plataforma preparada para crescimento.
+
+---
+
+# 🛠️ Tecnologias utilizadas
+
+## Servidor
+
+| Tecnologia | Utilização |
+|---|---|
+| PaperMC | Servidor otimizado |
+| GeyserMC | Compatibilidade Java/Bedrock |
+| Floodgate | Autenticação Bedrock |
+| Plugins Bukkit/Spigot | Extensões do servidor |
+
+## Desenvolvimento
+
+| Tecnologia | Utilização |
+|---|---|
+| Java | Base do ecossistema Minecraft |
+| Skript | Criação de sistemas personalizados |
+| YAML | Configuração de sistemas |
+| Git/GitHub | Controle e documentação |
+
+---
+
+# ⚔️ Sistemas desenvolvidos
+
+## 🌎 Sistema de Nações
+
+Sistema de grupos com identidade própria, benefícios e mecânicas exclusivas.
+
+## 💰 Economia
+
+Sistema econômico baseado em atividades dos jogadores.
+
+## 🎁 Eventos e Drops
+
+Eventos especiais e recompensas para aumentar interação.
+
+## 🌐 Multiplataforma
+
+Suporte para jogadores Java Edition e Bedrock Edition.
+
+## ⚙️ Automações
+
+Sistemas personalizados para melhorar gerenciamento e experiência.
+
+---
+
+# 🏗️ Arquitetura
+
+O projeto utiliza uma estrutura baseada em:
